@@ -1,0 +1,6 @@
+framework module Pods_JXSegmentedViewExample {
+  umbrella header "Pods-JXSegmentedViewExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
